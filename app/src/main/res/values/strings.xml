@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioWebService</string>
+    <string name="cantidad">Cantidad:  </string>
+    <string name="de">de </string>
+    <string name="a">a </string>
+    <string name="convertir">Convertir</string>
+    <string name="resultado">Resultado:  </string>
+</resources>
